@@ -1,6 +1,6 @@
 numpy
 pandas
-matplotlib
+matplotlib 
 scikit-learn
 tensorflow
 yfinance
