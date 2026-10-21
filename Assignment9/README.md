@@ -1,4 +1,4 @@
-# Assignment 9 — ViT vs CNN on a Small Dataset
+# Assignment 9 - ViT vs CNN on a Small Dataset
 
 Uses scikit-learn's built-in Digits dataset (1,797 small 8×8 grayscale digit images). The dataset is included with scikit-learn, so no large CIFAR-10 download is needed. Images are converted to RGB and resized for ImageNet-pretrained models.
 
@@ -16,4 +16,4 @@ Default: 800 train samples, 300 test samples, one epoch, batch size 8. For a lig
 
 Outputs: `outputs/comparison_results.csv`, `outputs/training_history.csv`, `outputs/comparison_plot.png`.
 
-Note: this is a small demonstration dataset, not a large benchmark. The pretrained backbones are frozen and only the new 10-class heads are trained. Add actual measured results and screenshots to the report.
+Note: this is a small demonstration dataset, not a large benchmark. The pretrained backbones are frozen and only the new 10-class heads are trained. 
