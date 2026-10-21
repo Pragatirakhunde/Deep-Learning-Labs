@@ -1,4 +1,4 @@
-# Transfer Learning Assignment - TensorFlow/Keras
+# Assignment 7 - Transfer Learning Assignment - TensorFlow/Keras
 
 ## Models
 1. AlexNet-style CNN baseline

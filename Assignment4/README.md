@@ -1,4 +1,4 @@
-# LSTM Time-Series Forecasting
+# Assignment 4 - LSTM Time-Series Forecasting
 
 A simple college-assignment implementation for next-day stock closing-price forecasting using an LSTM.
 

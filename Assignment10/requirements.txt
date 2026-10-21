@@ -1,0 +1,7 @@
+numpy>=1.26
+soundfile>=0.12
+librosa>=0.10
+SpeechRecognition>=3.10
+pyttsx3>=2.90
+tensorflow>=2.15
+tensorflow-hub>=0.16

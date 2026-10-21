@@ -1,4 +1,4 @@
-# DL Practical 01 — ViT vs CNN on a Small Dataset
+# Assignment 9 — ViT vs CNN on a Small Dataset
 
 Uses scikit-learn's built-in Digits dataset (1,797 small 8×8 grayscale digit images). The dataset is included with scikit-learn, so no large CIFAR-10 download is needed. Images are converted to RGB and resized for ImageNet-pretrained models.
 

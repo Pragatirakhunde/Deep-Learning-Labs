@@ -1,4 +1,4 @@
-# Assignment 2: RNN vs LSTM vs GRU for Sequence Classification
+# Assignment 5 - RNN vs LSTM vs GRU for Sequence Classification
 
 ## Problem Statement
 Implement and compare RNN, LSTM, and GRU models for sequence classification and analyze their performance using appropriate evaluation metrics.
