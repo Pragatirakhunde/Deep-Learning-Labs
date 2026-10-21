@@ -1,6 +1,6 @@
 # Deep Learning Coursework
 
-This folder contains Deep Learning practical assignments, and the course-project documentation for Semester 5.
+This folder contains Deep Learning practical assignments for Semester 5.
 
 ## Folder guide
 
